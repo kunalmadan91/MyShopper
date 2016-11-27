@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group_explore"
+        android:checkableBehavior="single">
+
+
+        <item android:id="@+id/drawer_all"
+            android:title="@string/all"
+            android:icon="@drawable/drawer_rated"/>
+
+        <item android:id="@+id/drawer_electronics"
+            android:title="@string/electronics"
+            android:icon="@drawable/drawer_rated"/>
+
+        <item android:id="@+id/drawer_furniture"
+            android:title="@string/furniture"
+            android:icon="@drawable/drawer_upcoming"/>
+
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/drawer_cart"
+            android:title="@string/drawer_cart"
+            android:icon="@drawable/cart"/>
+    </group>
+
+</menu>

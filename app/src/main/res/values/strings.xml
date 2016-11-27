@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MyShopper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">MyShopper</string>
+    <string name="electronics">Electronics</string>
+    <string name="furniture">Furniture</string>
+    <string name="drawer_cart">My Cart</string>
+    <string name="all">All Products</string>
+    <string name="navigation_drawer_open">Open Navigatoin Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="Rs">\u20B9</string>
+    <string-array name="nav_item_activity_titles">
+        <item>ALL Products</item>
+        <item>Electronics</item>
+        <item>Furniture</item>
+        <item>MY Cart</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="action_addtocart">Add to Cart</string>
+    <string name="action_removefromcart">Remove from Cart</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title">Product Name</string>
+    <string name="product_price">Product Price</string>
+    <string name="description">Description</string>
+    <string name="tvdesc">\u202280 centimeters LED 1366 x 768 \n\u2022For requesting installation/wall mounting/demo of this product once delivered, please directly call Samsung support on 1800 3000 8282
+    \n\u2022Connectivity - Input : HDMI*1, USB*1 \n\u2022Warranty Information : 1 year warranty provided by the manufacturer from date of purchase </string>
+    <string name="vacDesc">\u202280Powerful suction and blower function
+    \n\u2022Dual functions for collecting dry dust and wet spills
+    \n\u2022Wide range of accessories to suit varied cleaning needs
+    \n\u2022Specially designed 360 degree swivel wheels for easy movement
+    \n\u2022Larger capacity of plastic container for water-8 litres and dust-10 litres collection
+    \n\u2022Automatic cord winder for convenience
+    \n\u2022Convenient 8 meter radius of operation</string>
+    <string name="tableDesc">\u2022Product Dimensions: Length (31.44 inches), Width (18.47 inches), Height (42.05 inches)
+    \n\u2022Primary Material: MDF
+    \n\u2022Color: Dark Brown, Style: Modern
+    \n\u2022Assembly Required: The product requires carpenter assembly and will be provided by the seller
+    \n\u2022Warranty: 30 days warranty on manufacturing defects only
+    \n\u2022Made of MDF and has dark finish</string>
+    <string name="chairDesc">\u2022Product Dimensions: Length (21 inches), Width (21 inches), Height (48 inches)
+    \n\u2022Primary Material: Leatherette
+    \n\u2022Color: Brown, Style: Modern
+    \n\u2022Assembly Required: The product requires basic assembly and comes with assembly instructions
+    \n\u2022Warranty: 3 months except leatherette
+    \n\u2022Adjustable seat height
+    \n\u2022Tilt mechanism
+    \n\u2022Nylon wheels</string>
+    <string name="almirahDesc">\u2022Product Dimension: Length: 47 inches, Width: 18 inches, Height: 71 inches
+    \n\u2022Primary Material: Particle Board
+    \n\u2022Color: Beige, Finish: Glossy, Style: Contemporary
+    \n\u2022Assembly Required: The product requires carpenter assembly and will be provided by the seller
+    \n\u2022Warranty: 1 year on product.
+    \n\u2022Available with matching king bed</string>
+    <string name="ovenDesc">\u2022Stainless steel cavity and LED display with clock
+     \n\u202210 power levels and 10 temperature levels
+     \n\u2022Grill, microwave and convection
+     \n\u2022Speed defrost and multi stage cooking
+     \n\u202224 auto cook menus
+     \n\u2022Express cooking quick start, auto reheat, keep warm and child safety lock
+     \n\u2022Warranty: 1 year on machine, 3 years on Magnetron and Cavity</string>
+    <string name="show_details">Show Details</string>
+    <string name="remove_from_cart">remove from cart</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="description_lbl">Description</string>
+    <string name="price_lbl">Sale Price</string>
+    <string name="cart_empty">Your Cart is Empty!!</string>
+    <string name="amt_payable_lbl">Total Amount Payable:</string>
+    <string name="checkout">CHECKOUT</string>
+
+
+</resources>
